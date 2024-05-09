@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Master/Scripts/GameManager.cs.meta
+guid: 14ffb138eff0b6a499dda26fc1885d3d
+========
+guid: 02fd64e014aa0294ca93f736414bac9c
+>>>>>>>> main:Assets/Master/Scripts/DroppingObstacle.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
